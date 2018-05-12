@@ -1,0 +1,39 @@
+_repo: The-Vision-of-Sir-Launfal--13-And-Other-Poems-by-James-Russell-Lowell--Edited-with-an-Introdu__17948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Meliboeus-Hipponax
+    - Wilbur, Homer
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+  editor:
+    agent_name: Abernethy, J. W. (Julian Willis)
+    alias: Abernethy, Julian Willis
+    birthdate: 1853
+    deathdate: 1923
+    gutenberg_agent_id: '38301'
+    url: http://www.gutenberg.org/2009/agents/38301
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: "The Vision of Sir Launfal\r\nAnd Other Poems by James Russell Lowell; Edited\
+  \ with an Introduction and Notes by Julian W. Abernethy, Ph.D."
+url: http://www.gutenberg.org/ebooks/17948
