@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '38301'
     url: http://www.gutenberg.org/2009/agents/38301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17948#The-Vision-of-Sir-Launfal--13-And-Other-Poems-by-James-Russell-Lowell--Edited-with-an-Introdu_
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2006-03-08'
 gutenberg_type: Text
